@@ -1,0 +1,69 @@
+[
+  {
+    "name": "giorgi",
+    "email": "giorgi@gmail.com",
+    "title": "What is programming?",
+    "content": "Programming is the process of creating a set of instructions that tell a computer how to perform a task. Programming can be done using a variety of computer programming languages, such as JavaScript, Python, and C++.",
+    "date_created": "2021-08-21 12:43:30.588316",
+    "likes": [
+      {
+        "giorgi@gmail.com": 1
+      },
+      {
+        "miriani@gmail.com": 1
+      }
+    ],
+    "total_likes": 3,
+    "comments": [],
+    "id": 1,
+    "total_comments": 0
+  },
+  {
+    "name": "giorgi",
+    "email": "giorgi@gmail.com",
+    "title": "What is programming?",
+    "content": "Programming is the process of creating a set of instructions that tell a computer how to perform a task. Programming can be done using a variety of computer programming languages, such as JavaScript, Python, and C++.",
+    "date_created": "2021-09-21 17:54:29.228345",
+    "likes": [
+      {
+        "miriani@gmail.com": 1
+      }
+    ],
+    "total_likes": 1,
+    "comments": [],
+    "id": 2,
+    "total_comments": 0
+  },
+  {
+    "name": "miriani",
+    "email": "miriani@gmail.com",
+    "title": "What is history?",
+    "content": "History is the study of people, actions, decisions, interactions and behaviours.......",
+    "date_created": "2021-09-21 17:56:27.326182",
+    "likes": [],
+    "total_likes": 0,
+    "comments": [],
+    "id": 3,
+    "total_comments": 0
+  },
+  {
+    "name": "miriani",
+    "email": "miriani@gmail.com",
+    "title": "What is history?",
+    "content": "History is the study of people, actions, decisions, interactions and behaviours.......",
+    "date_created": "2021-09-21 19:05:55.322369",
+    "likes": [
+      {
+        "giorgi@gmail.com": 1
+      }
+    ],
+    "total_likes": 1,
+    "comments": [
+      {
+        "giorgi@gmail.com": "Nice post!"
+      }
+    ],
+    "id": 4,
+    "total_comments": 1
+  }
+]

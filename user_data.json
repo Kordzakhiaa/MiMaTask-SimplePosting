@@ -1,0 +1,14 @@
+[
+  {
+    "name": "giorgi",
+    "email": "giorgi@gmail.com",
+    "password1": "$5$rounds=535000$JlSnm01ConU/peyl$eHaY7FTOJI2Rc9I4oJ/uTk1WjK7xHuegRhicyWtMe39",
+    "password2": "$5$rounds=535000$Aw62vhAU8H6DIvr3$uTsQ4XgKu5l.ZaZkLmm263U0tSeKEO0S0JVEnNRj6T/"
+  },
+  {
+    "name": "miriani",
+    "email": "miriani@gmail.com",
+    "password1": "$5$rounds=535000$ZJuegDy1kmBeXCDE$ye30PPnByD846CJRKgA7/dk3IhY1Sg9ZNU7Am4MlkV3",
+    "password2": "$5$rounds=535000$EcTv1VQNwlRqMqvi$1TtfDHqaB4HzjxegxSyOO1WmJ2jhbA0gWCMeWUcOip."
+  }
+]
